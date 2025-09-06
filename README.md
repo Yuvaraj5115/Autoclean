@@ -1,16 +1,8 @@
-\<div align="center"\>  
-\<br /\>  
-\<h1\>AutoClean: A Smart Guardian for Clean & Safe Air\</h1\>  
-\<p\>  
-A smart, DIY system that monitors air quality and automatically disinfects a space, but only when it's empty and safe to do so.  
-\</p\>  
-\<br /\>  
-\<p\>  
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/platform-ESP32-blue.svg" alt="Platform" /\>  
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/status-complete-brightgreen.svg" alt="Status" /\>  
-\<a href="https://www.google.com/search?q=https://github.com/GCY/wxECGAnalyzer/blob/master/LICENSE"\>\<img src="https://www.google.com/search?q=https://img.shields.io/badge/license-MIT-lightgrey.svg" alt="License" /\>\</a\>  
-\</p\>  
-\</div\>  
+<p align="center">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/platform-ESP32-blue.svg" alt="Platform" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/status-complete-brightgreen.svg" alt="Status" />
+<a href="https://www.google.com/search?q=https://github.com/GCY/wxECGAnalyzer/blob/master/LICENSE"><img src="https://www.google.com/search?q=https://img.shields.io/badge/license-MIT-lightgrey.svg" alt="License" /></a>
+</p>
 This project was built to answer a simple question: "Is this room *really* clean?" AutoClean is our solution—an autonomous system that ensures a space is not only fresh but also safe, by intelligently deciding when and how to clean.
 
 ## **Table of Contents**
